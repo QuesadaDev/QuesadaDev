@@ -22,6 +22,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <br>
+<br>
+<br>
 
 <h3 align="left">Contacta conmigo:</h3>
 <div align="center">
