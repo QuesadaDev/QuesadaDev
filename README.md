@@ -2,7 +2,7 @@
 
 <br>
 
-- 👨‍💻 Actualmente estoy aprendiendo python mediante diversos ejercicios.
+- 👨‍💻 Actualmente estoy aprendiendo python mediante diversos cursos de manera autodidacta.
 - 📚 Me gustaría ir aprendiendo más lenguajes, ya que el mundo de la programación es muy interesante.
 - 💪🏼 Mi objetivo de futuro sería poder crear cualquier tipo de APP, ya sea para Android, iOs, Windows...
 <br>
